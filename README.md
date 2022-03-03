@@ -1,7 +1,6 @@
 # Vehicle_number_plate_recognition
 
-There are many robust ways to detect the numbet plate usiong Deep learning /machine learning using YOLO but in this repository 
-i am going to introduce a basic number plate detector which dosent require tons of trainning data 
+There are many robust ways to detect the number plate using Deep learning /machine learning using YOLO but in this repository i am going to introduce a basic number plate detector which doesn't require tons of training data
 
 There are numerous applications in which recognition of number plate is requried as a primary or secondary task
 
