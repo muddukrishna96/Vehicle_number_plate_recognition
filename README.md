@@ -1,6 +1,9 @@
 # Vehicle_number_plate_recognition
 
-there are numerous applications in which recognition of number plate is requried as a primary or secondary task
+There are many robust ways to detect the numbet plate usiong Deep learning /machine learning using YOLO but in this repository 
+i am going to introduce a basic number plate detector which dosent require tons of trainning data 
+
+There are numerous applications in which recognition of number plate is requried as a primary or secondary task
 
 Some of the applications include recognition of number plate for automatic fining system,for automatic entry of registered cars etc and many many.
 
